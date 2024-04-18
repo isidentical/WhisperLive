@@ -42,7 +42,6 @@ setup(
         )
     ),
     install_requires=[
-        "PyAudio",
         "faster-whisper==1.0.1",
         "torch",
         "torchaudio",
